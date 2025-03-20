@@ -1,6 +1,6 @@
-# Android-Things---Individual-Project
+# Android-Things---Individual-Project - ESP32 Wi-Fi Control Hub: Remote LED Management System
 Android Things individual project 
-	ESP32 Wi-Fi Control Hub: Remote LED Management System
+
 
 The ESP32 Smart Control Panel project demonstrates how to create a web-based control system. The project configures an ESP32 microcontroller as a Wi-Fi access point, hosting a responsive web interface that can be accessed by nearby devices. The interface features two intuitive buttons that allow users to remotely toggle the state of two LEDs mounted on the motherboard. When a user connects to the ESP32's network and loads the webpage, they can interact with the buttons to send commands wirelessly to the microcontroller, which then processes these commands and controls the corresponding LED outputs in real-time, providing visual feedback of the system's operation
 

@@ -21,9 +21,13 @@ Prerequisites:
 •	Arduino IDE
 
 The following individual components:
+
 •	2 LEDs (1 red, 1 green)
+
 •	2 220Ω resistors
+
 •	Jumper wires (4) 
+
 •	1 breadboard
 
 Running
@@ -33,8 +37,11 @@ To run the ESP32 LED control project:
 1.Connect the LEDs to your ESP8266/ESP32 GPIO pins according to the schematics in the diagram:
 
 Green LED connected to GPIO6 (with 220Ω resistor)
+
 Red LED connected to GPIO7 (with 220Ω resistor)
 
 2.Install the required libraries in Arduino IDE: ESP32 board package
+
 3.Deploy and run the sketch to your ESP32 module
+
 4.Verify that the LEDs respond correctly when changing the buttons values 

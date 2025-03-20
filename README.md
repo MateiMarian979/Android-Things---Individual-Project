@@ -27,9 +27,11 @@ The following individual components:
 •	1 breadboard
 
 Running
-To run the ESP8266/ESP32 LED control project:
+
+To run the ESP32 LED control project:
 
 1.Connect the LEDs to your ESP8266/ESP32 GPIO pins according to the schematics in the diagram:
+
 Green LED connected to GPIO6 (with 220Ω resistor)
 Red LED connected to GPIO7 (with 220Ω resistor)
 

@@ -13,6 +13,7 @@ Screenshots
 
 
 Schematics
+
  ![image](https://github.com/user-attachments/assets/1df868d3-99ba-4a30-905e-aa8c419e9b42)
 
 Prerequisites:

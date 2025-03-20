@@ -5,7 +5,10 @@ Android Things individual project
 The ESP32 Smart Control Panel project demonstrates how to create a web-based control system. The project configures an ESP32 microcontroller as a Wi-Fi access point, hosting a responsive web interface that can be accessed by nearby devices. The interface features two intuitive buttons that allow users to remotely toggle the state of two LEDs mounted on the motherboard. When a user connects to the ESP32's network and loads the webpage, they can interact with the buttons to send commands wirelessly to the microcontroller, which then processes these commands and controls the corresponding LED outputs in real-time, providing visual feedback of the system's operation
 
 Screenshots
+
+
 ![image](https://github.com/user-attachments/assets/0c191221-628e-465a-90c5-cfbbb35dddb5)
+
 ![image](https://github.com/user-attachments/assets/d2bd71cb-9ff5-4ac4-8c72-a2a890d559c4)
 
 
